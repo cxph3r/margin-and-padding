@@ -1,0 +1,27 @@
+body {
+    background-color: aliceblue;
+    margin: 0 auto;
+    max-width: 600px;
+}
+
+.box1 {
+    background-color: pink;
+    border: 5px solid blue;
+    padding: 10px;
+    margin: 10px;
+}
+
+.box2 {
+    background-color: aquamarine;
+    border: 5px solid blue;
+    padding: 10px;
+    margin: 10px;
+}
+
+.box3 {
+    background-color: peachpuff;
+    border: 5px solid blue;
+    padding: 10px;
+    margin: 0px;
+    width: 200px;
+}
